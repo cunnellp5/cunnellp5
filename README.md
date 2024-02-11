@@ -1,5 +1,7 @@
 <h1 align="center">Phil</h1>
-<h3 align="center">JS Developer</h3>
+<h3 align="center">
+    <img src="https://media.giphy.com/media/j4lI50Qjt1YW0ySy6s/giphy.gif" alt="Alt Text">  
+</h3>
 
 - 🔭 I’m currently working on Wesbos's advanced react course [Sick-fits](https://github.com/cunnellp5/Sick-Fits)
 
