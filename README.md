@@ -1,6 +1,6 @@
 <h1 align="center">Phil</h1>
 <h3 align="center">
-    <img src="https://media.giphy.com/media/j4lI50Qjt1YW0ySy6s/giphy.gif" alt="Alt Text">  
+    <img src="https://media.giphy.com/media/gXDMfsQIT15tSjnZBe/giphy.gif" alt="Alt Text" height=100px>  
 </h3>
 
 - 🔭 I’m currently working on Wesbos's advanced react course [Sick-fits](https://github.com/cunnellp5/Sick-Fits)
