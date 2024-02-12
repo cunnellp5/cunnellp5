@@ -2,11 +2,6 @@
 
 > <h4>Web Developer | GLSL enthusiast | Skateboarder | Music maker</h4>
 
-<h3 align="left">Connect with me</h3>
-
-📫 **philip.cunnell@colorado.edu** &nbsp; &nbsp; | &nbsp;  &nbsp;  <a href="https://linkedin.com/in/philip-cunnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip-cunnell" height="25" width="25" /></a> &nbsp; &nbsp; | &nbsp;  &nbsp;  <a href="https://codepen.io/philipcunnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="philipcunnell" height="25" width="25" /></a> &nbsp; &nbsp; | &nbsp;  &nbsp;  <a href="https://instagram.com/freshcombo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freshcombo" height="25" width="25" /></a>
-
-<h3 align="left">Main Languages and Tools</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a>
