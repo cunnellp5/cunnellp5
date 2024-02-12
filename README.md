@@ -20,11 +20,3 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
-
-<h4 align="left">Other</h4>
-
-| <sub>angular</sub> | <sub>aws</sub>    | <sub>babel</sub> | <sub>bootstrap</sub> | <sub>bulma</sub> | <sub>cypress</sub> | <sub>d3js</sub> | <sub>django</sub> | <sub>docker</sub> | <sub>figma</sub> |
-|---------------------|-------------------|------------------|-----------------------|------------------|---------------------|------------------|-------------------|------------------|------------------|
-| <sub>firebase</sub> | <sub>graphql</sub>| <sub>heroku</sub>| <sub>ionic</sub>       | <sub>nestjs</sub>| <sub>python</sub>   | <sub>quasar</sub>| <sub>selenium</sub>| <sub>webpack</sub>| <sub>xd</sub>    |
-
-
