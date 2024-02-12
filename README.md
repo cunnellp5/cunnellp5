@@ -1,4 +1,4 @@
-<h1>Phil</h1>
+<h1>Philip Cunnell</h1>
 
 > <h4>Web Developer | GLSL enthusiast | Skateboarder | Music maker</h4>
 
