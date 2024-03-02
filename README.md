@@ -7,3 +7,7 @@ Web Developer <sup>Est 2016</sup><br />
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></a>&nbsp;
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></a>&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></a>&nbsp;
+
+<sub>💻 [Personal site](https://philcunnell.dev)</sub><br>
+<sub>📄 [Linkedin](https://www.linkedin.com/in/philip-cunnell/)</sub><br>
+<sub>🎶 [beats](https://freshcombomusic.com/)</sub><br>
