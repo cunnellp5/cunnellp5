@@ -10,4 +10,5 @@ Web Developer <sup>Est 2016</sup><br />
 
 <sub>💻 [Personal site](https://philcunnell.dev)</sub><br>
 <sub>📄 [Linkedin](https://www.linkedin.com/in/philip-cunnell/)</sub><br>
+<sub>👾 [shaders](https://www.shadertoy.com/user/pcunnell)</sub><br>
 <sub>🎶 [beats](https://freshcombomusic.com/)</sub><br>
