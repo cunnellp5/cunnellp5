@@ -13,4 +13,4 @@ Web Developer <sup>Est 2016</sup><br />
 <sub>🥷 [codewars](https://www.codewars.com/users/cunnellp5)</sub><br>
 <sub>👾 [shaders](https://www.shadertoy.com/user/pcunnell)</sub><br>
 <sub>🖊️ [codepen](https://codepen.io/philipcunnell)</sub><br>
-<sub>🎶 [beats](https://freshcombomusic.com/)</sub><br>
+<sub>🎶 [FC](https://freshcombomusic.com/) | [SC Beats](https://soundcloud.com/freshcombo)</sub><br>
