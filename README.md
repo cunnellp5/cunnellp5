@@ -1,6 +1,6 @@
 <h1>Philip Cunnell</h1>
 
-Web Developer <sup>Est 2016</sup><br />
+Web Developer <sub>Est. 2016</sub><br />
 <sub>GLSL enthusiast | Skateboarder | Music maker</sub>
 
 ![CodeWars](https://www.codewars.com/users/cunnellp5/badges/micro)&nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></a>&nbsp;
