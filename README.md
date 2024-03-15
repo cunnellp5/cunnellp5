@@ -3,7 +3,7 @@
 <p>
   Web Developer
   <br>
-  <sub>Est. 2016 - G36</sub>
+  <sub>Est. 2016 - G38</sub>
 </p>
 
 * 💻 Personal site: [https://philcunnell.dev](https://philcunnell.dev)
