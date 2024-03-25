@@ -6,7 +6,7 @@
   <sub>Est. 2016 - G38</sub>
 </p>
 
-</br>💻 ```Personal  ``` - [philcunnell.dev](https://philcunnell.dev)
+💻 ```Personal  ``` - [philcunnell.dev](https://philcunnell.dev)
 </br>🧶 ```Playground``` - [animations.philcunnell.dev](animations.philcunnell.dev)
 </br>📄 ```LinkedIn  ``` - [linkedin.com/in/philip-cunnell/](https://www.linkedin.com/in/philip-cunnell/)
 </br>🥷 ```Codewars  ``` - [codewars.com/users/cunnellp5](https://www.codewars.com/users/cunnellp5)
