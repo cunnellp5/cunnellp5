@@ -2,7 +2,6 @@
 
 <p>
   Web Developer
-  <br>
   <sub>Est. 2016 - G38</sub>
 </p>
 
