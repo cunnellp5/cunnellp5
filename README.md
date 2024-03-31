@@ -7,7 +7,7 @@
 
 💻 ```Personal  ``` - [philcunnell.dev](https://philcunnell.dev)
 </br>🧶 ```Playground``` - [animations.philcunnell.dev](https://animations.philcunnell.dev)
-</br>💿 ```MiniApps  ``` - [minis.philcunnell.dev](https://minis.philcunnell.dev)
+</br>🥽 ```MiniApps  ``` - [minis.philcunnell.dev](https://minis.philcunnell.dev)
 </br>📄 ```LinkedIn  ``` - [linkedin.com/in/philip-cunnell/](https://www.linkedin.com/in/philip-cunnell/)
 </br>🥷 ```Codewars  ``` - [codewars.com/users/cunnellp5](https://www.codewars.com/users/cunnellp5)
 </br>👹 ```Exercism  ``` - [exercism.org/profiles/cunnellp5](https://exercism.org/profiles/cunnellp5)
