@@ -14,6 +14,5 @@
 </br>👾 ```Shaders   ``` - [shadertoy.com/user/pcunnell](https://www.shadertoy.com/user/pcunnell)
 </br>🖊️ ```Codepen   ``` - [codepen.io/philipcunnell](https://codepen.io/philipcunnell)
 </br>🎶 ```FreshCombo``` - [freshcombomusic.com/](https://freshcombomusic.com/) 
-</br>🎧 ```Soundcloud``` - [soundcloud.com/freshcombo](https://soundcloud.com/freshcombo)
 
 [![CodeWars](https://www.codewars.com/users/cunnellp5/badges/micro)](https://www.codewars.com/users/cunnellp5)
